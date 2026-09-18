@@ -1,9 +1,9 @@
 {
   "enabled": true,
   "text": "🔥 Defining SMP. Лучший SMP сервер для игры!",
-  "imageUrl": null,
+  "imageUrl": "https://i.ibb.co/pBPRSsS5/IMG-3459.webp",
   "linkUrl": "https://definingsmp.vercel.app/",
-  "backgroundColor": "#7C3AED",
+  "backgroundColor": "#1E90FF",
   "textColor": "#FFFFFF",
   "dismissible": true
 }
